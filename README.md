@@ -1,5 +1,5 @@
 # Apple-CLI
-### 一个基于 Windows 批处理的 Minecraft 服务器管理小工具。
+### 一个基于 Windows 批处理的 Minecraft 服务器管理小工具
 **环境要求**：
 ```
 Windows 系统
@@ -18,4 +18,4 @@ apple -create myserver 4 2
 apple -start myserver 4 2
 ```
 # 开源协议
-MIT 许可证
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) MIT License
